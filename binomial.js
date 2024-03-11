@@ -6,7 +6,7 @@ const factorial = (n) => {
     return result;
 };
 
-//fuctorial of n = n! = n*(n-1)*(n-2)*...*1
+//factorial of n = n! = n*(n-1)*(n-2)*...*1
 
 
 
